@@ -21,7 +21,8 @@ This is the second of the 3 data files needed to load a level.
 #### Modding the .raw file:
 A decompiler can be found in "Toy Story 2ools/RAW", named "RAWDEC.exe" which was developed by "Juanmv94" on the 15th of the 5th 2020.  
 This will part the .raw file into its different types, uncompressed. the first 15 or so are texture files and  
-can be opened using EpicMinecartz Program "TPage.exe" which was made on the same day.
+can be opened using EpicMinecartz Program "TPage.exe" which was made on the same day which can be found in  
+the same location as RAWDEC.exe, Reminder to ALT+F4 when you're done rather than closing it normally.  
 Juanmv94 also made a Collision and GFX viewer using PSX save states, which contain the .raw data.  
 You can find the collision viewer [here](https://priceless-pike-6c8ff8.netlify.app/), or the GFX viewer, [here](https://priceless-pike-6c8ff8.netlify.app/indexgfx.html)
   
