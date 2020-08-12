@@ -1,4 +1,4 @@
-# Toy-Story-2-Modding
+# Toy Story 2 Modding
 Tools And Decompiled Assets For/From The 1999 Video Game Toy Story 2
 
 ## File Types:
