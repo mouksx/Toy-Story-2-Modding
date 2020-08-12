@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"LevelID"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>".raw Loading"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>toy2.exe+48278C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"L1"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>toy2.exe+FCDC0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3</ID>
+          <Description>"L2"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>toy2.exe+64CC74</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>36</ID>
+      <Description>"Pos"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"Buzz POS"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>7</ID>
+              <Description>"Buzz X Pos"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0052F308</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>100</Key>
+                  </Keys>
+                  <Value>3000</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Decrease Value</Action>
+                  <Keys>
+                    <Key>102</Key>
+                  </Keys>
+                  <Value>3000</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>8</ID>
+              <Description>"Buzz Y Pos"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0052F304</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Decrease Value</Action>
+                  <Keys>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>30000</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>103</Key>
+                  </Keys>
+                  <Value>2000</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>9</ID>
+              <Description>"Buzz Z Pos"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0052F300</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>104</Key>
+                  </Keys>
+                  <Value>3000</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Decrease Value</Action>
+                  <Keys>
+                    <Key>101</Key>
+                  </Keys>
+                  <Value>3000</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>42</ID>
+          <Description>"Coin POS"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>41</ID>
+              <Description>"Coin Loading X Pos"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>447F22</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>47</ID>
+              <Description>"Coins"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>49</ID>
+                  <Description>"Coin 1"</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>48</ID>
+                      <Description>"Coin 1 X"</Description>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>5546C8</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>127</ID>
+                  <Description>"Coin 2"</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>51</ID>
+                      <Description>"Coin 2 X"</Description>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>005546D8</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>52</ID>
+                  <Description>"Coin 3 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005546E8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>135</ID>
+                  <Description>"Coin 4 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005546F8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>136</ID>
+                  <Description>"Coin 5 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554708</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>137</ID>
+                  <Description>"Coin 6 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554718</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>138</ID>
+                  <Description>"Coin 7 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554728</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>139</ID>
+                  <Description>"Coin 8 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554738</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>140</ID>
+                  <Description>"Coin 9 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554748</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>141</ID>
+                  <Description>"Coin 10 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554758</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>142</ID>
+                  <Description>"Coin 11 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554768</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>143</ID>
+                  <Description>"Coin 12"</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>144</ID>
+                      <Description>"Coin 12 X"</Description>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>toy2.exe+154778</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>145</ID>
+                      <Description>"Coin 12 Y"</Description>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>toy2.exe+154770</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>146</ID>
+                      <Description>"Coin 12 Z"</Description>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>554774</Address>
+                      <Hotkeys>
+                        <Hotkey>
+                          <Action>Decrease Value</Action>
+                          <Keys>
+                            <Key>110</Key>
+                          </Keys>
+                          <Value>5000</Value>
+                          <ID>0</ID>
+                        </Hotkey>
+                      </Hotkeys>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>147</ID>
+                  <Description>"Coin 13 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554788</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>148</ID>
+                  <Description>"Coin 14 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554798</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>149</ID>
+                  <Description>"Coin 15 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005547A8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>150</ID>
+                  <Description>"Coin 16 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005547B8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>151</ID>
+                  <Description>"Coin 17 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005547C8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>152</ID>
+                  <Description>"Coin 18 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005547D8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>153</ID>
+                  <Description>"Coin 19 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005547E8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>154</ID>
+                  <Description>"Coin 20 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005547F8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>155</ID>
+                  <Description>"Coin 21 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554808</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>156</ID>
+                  <Description>"Coin 22 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554818</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>157</ID>
+                  <Description>"Coin 23 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554828</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>158</ID>
+                  <Description>"Coin 24 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554838</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>159</ID>
+                  <Description>"Coin 25 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554848</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>160</ID>
+                  <Description>"Coin 26 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554858</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>161</ID>
+                  <Description>"Coin 27 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554868</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>162</ID>
+                  <Description>"Coin 28 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554878</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>163</ID>
+                  <Description>"Coin 29 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554888</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>164</ID>
+                  <Description>"Coin 30 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554898</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>165</ID>
+                  <Description>"Coin 31 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005548A8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>166</ID>
+                  <Description>"Coin 32 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005548B8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>167</ID>
+                  <Description>"Coin 33 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005548C8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>168</ID>
+                  <Description>"Coin 34 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005548D8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>169</ID>
+                  <Description>"Coin 35 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005548E8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>170</ID>
+                  <Description>"Coin 36 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>005548F8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>171</ID>
+                  <Description>"Coin 37 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554908</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>172</ID>
+                  <Description>"Coin 38 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554918</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>173</ID>
+                  <Description>"Coin 39 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554928</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>174</ID>
+                  <Description>"Coin 40 X"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>00554938</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>175</ID>
+          <Description>"Coin 50 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554948</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>176</ID>
+          <Description>"Coin 51 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554958</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>177</ID>
+          <Description>"Coin 52 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554968</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>178</ID>
+          <Description>"Coin 53 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554978</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>179</ID>
+          <Description>"Coin 54 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554988</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>180</ID>
+          <Description>"Coin 55 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554998</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>181</ID>
+          <Description>"Coin 56 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>005549A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>182</ID>
+          <Description>"Coin 57 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>005549B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>183</ID>
+          <Description>"Coin 58 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>005549C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>184</ID>
+          <Description>"Coin 59 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>005549D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>185</ID>
+          <Description>"Coin 60 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>005549E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>186</ID>
+          <Description>"Coin 61 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>005549F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>187</ID>
+          <Description>"Coin 62 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554A08</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>188</ID>
+          <Description>"Coin 63 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554A18</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>189</ID>
+          <Description>"Coin 64 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554A28</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>190</ID>
+          <Description>"Coin 65 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554A38</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>191</ID>
+          <Description>"Coin 66 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554A48</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>192</ID>
+          <Description>"Coin 67 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554A58</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>193</ID>
+          <Description>"Coin 68 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554A68</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>194</ID>
+          <Description>"Coin 69 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554A78</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>195</ID>
+          <Description>"Coin 70 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554A88</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>196</ID>
+          <Description>"Coin 72 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554A98</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>197</ID>
+          <Description>"Coin 73 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554AA8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>198</ID>
+          <Description>"Coin 74 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554A98</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>199</ID>
+          <Description>"Coin 75 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554AC8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>200</ID>
+          <Description>"Coin 76 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554AD8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>201</ID>
+          <Description>"Coin 77 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554AE8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>202</ID>
+          <Description>"Coin 78 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554AF8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>203</ID>
+          <Description>"Coin 79 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554B08</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>204</ID>
+          <Description>"Coin 80 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554B18</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>205</ID>
+          <Description>"Coin 81 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554B28</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>206</ID>
+          <Description>"Coin 82 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554B38</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>207</ID>
+          <Description>"Coin 83 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554B48</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>208</ID>
+          <Description>"Coin 84 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554B58</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>209</ID>
+          <Description>"Coin 85 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554B68</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>210</ID>
+          <Description>"Coin 86 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554B78</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>211</ID>
+          <Description>"Coin 87 X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>00554B88</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>14</ID>
+          <Description>"Entity POS"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>37</ID>
+              <Description>"Entity Loading Z Pos"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>406CF2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>46</ID>
+              <Description>"Entities"</Description>
+              <Options moHideChildren="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>45</ID>
+                  <Description>"Hamm"</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>15</ID>
+                      <Description>"Hamm X Pos"</Description>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>toy2.exe+12D478</Address>
+                      <Hotkeys>
+                        <Hotkey>
+                          <Action>Increase Value</Action>
+                          <Keys>
+                            <Key>16</Key>
+                            <Key>51</Key>
+                          </Keys>
+                          <Value>5000</Value>
+                          <ID>0</ID>
+                        </Hotkey>
+                        <Hotkey>
+                          <Action>Increase Value</Action>
+                          <Keys>
+                            <Key>16</Key>
+                            <Key>52</Key>
+                          </Keys>
+                          <Value>-5000</Value>
+                          <ID>1</ID>
+                        </Hotkey>
+                      </Hotkeys>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>16</ID>
+                      <Description>"Hamm Y Pos"</Description>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>0052D474</Address>
+                      <Hotkeys>
+                        <Hotkey>
+                          <Action>Increase Value</Action>
+                          <Keys>
+                            <Key>16</Key>
+                            <Key>67</Key>
+                          </Keys>
+                          <Value>20000</Value>
+                          <ID>0</ID>
+                        </Hotkey>
+                        <Hotkey>
+                          <Action>Increase Value</Action>
+                          <Keys>
+                            <Key>16</Key>
+                            <Key>86</Key>
+                          </Keys>
+                          <Value>-5000</Value>
+                          <ID>1</ID>
+                        </Hotkey>
+                      </Hotkeys>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>13</ID>
+                      <Description>"Hamm Z Pos"</Description>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>toy2.exe+12D470</Address>
+                      <Hotkeys>
+                        <Hotkey>
+                          <Action>Increase Value</Action>
+                          <Keys>
+                            <Key>16</Key>
+                            <Key>90</Key>
+                          </Keys>
+                          <Value>-5000</Value>
+                          <ID>0</ID>
+                        </Hotkey>
+                        <Hotkey>
+                          <Action>Increase Value</Action>
+                          <Keys>
+                            <Key>16</Key>
+                            <Key>88</Key>
+                          </Keys>
+                          <Value>5000</Value>
+                          <ID>1</ID>
+                        </Hotkey>
+                      </Hotkeys>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>131</ID>
+                  <Description>"RC"</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>132</ID>
+                      <Description>"RC Y Pos"</Description>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>52D9F0</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>130</ID>
+                      <Description>"RC Z Pos"</Description>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>0052D9EC</Address>
+                    </CheatEntry>
+                    <CheatEntry>
+                      <ID>133</ID>
+                      <Description>"RC X Pos"</Description>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>52D9F4</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>134</ID>
+                  <Description>"Blue Guys"</Description>
+                  <Options moHideChildren="1"/>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <GroupHeader>1</GroupHeader>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>128</ID>
+                      <Description>"Blue Guy 1 Z"</Description>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>0052D29C</Address>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>29</ID>
+      <Description>"Buzz"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>18</ID>
+          <Description>"Woah Sound Effect"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>08F6E260</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"Spin Cooldown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>toy2.exe+13C650</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"Spin Charge %"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>toy2.exe+13C83C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Jump State"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>toy2.exe+12F38C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"Ledge Grab Timer (90)"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>toy2.exe+13C660</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>76</Key>
+              </Keys>
+              <Value>90</Value>
+              <Description>Ledge Grap</Description>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"Title Screen Shananigans"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>25</ID>
+          <Description>"Camera X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0019FD2C</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Increase Value</Action>
+              <Keys>
+                <Key>16</Key>
+                <Key>51</Key>
+              </Keys>
+              <Value>20000</Value>
+              <ID>0</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Increase Value</Action>
+              <Keys>
+                <Key>16</Key>
+                <Key>52</Key>
+              </Keys>
+              <Value>-20000</Value>
+              <ID>1</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"Camera Y"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0019FD30</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>28</ID>
+          <Description>"Camera Z"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0019FD34</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>31</ID>
+          <Description>"Camera Sway Z"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0019FD1C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"Camera Sway X"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0019FD34</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description>"Camera Sway Y"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0019FD30</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>24</ID>
+          <Description>"Level Selection"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0019FCAC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>34</ID>
+          <Description>"Token Sprites"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>0019FCA8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>35</ID>
+          <Description>"Mini Boss Tokens"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>00438E1D</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"Random"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"Jamming on the Pause Menu"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>toy2.exe+12B818</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description>"Don't Touch This Stuff I Have No Idea What It Is"</Description>
+          <Options moHideChildren="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>22</ID>
+              <Description>"sound bzz"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>toy2.exe+129FB8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>23</ID>
+              <Description>"sound bzz2"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>toy2.exe+12ACD8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>222</ID>
+      <Description>"Collectable Ding"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>toy2.exe+12B7D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>223</ID>
+      <Description>"Collectable"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>toy2.exe+430E38</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>214</ID>
+      <Description>"Camera X"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>toy2.exe+12F3C8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>221</ID>
+      <Description>"Return Camera High"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>52F3B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>217</ID>
+      <Description>"Camera Y"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>52F3BE</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>216</ID>
+      <Description>"Camera Close"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>52F3C4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>215</ID>
+      <Description>"Camera Z"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>toy2.exe+12F3C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>219</ID>
+      <Description>"Camera High"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>52F3BA</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>224</ID>
+      <Description>"Water Thing"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0052B81C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>226</ID>
+      <Description>"Pushing"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>toy2.exe+13C648</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>227</ID>
+      <Description>"Idle Animation"</Description>
+      <VariableType>2 Bytes</VariableType>
+      <Address>toy2.exe+10A098</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry Color="20000000">
+      <Description>Change of mov [toy2.exe+64CC74],eax</Description>
+      <AddressString>toy2.exe+C20E4</AddressString>
+      <Before>
+        <Byte>90</Byte>
+        <Byte>8B</Byte>
+        <Byte>44</Byte>
+        <Byte>24</Byte>
+        <Byte>04</Byte>
+      </Before>
+      <Actual>
+        <Byte>A3</Byte>
+        <Byte>74</Byte>
+        <Byte>CC</Byte>
+        <Byte>A4</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>C3</Byte>
+        <Byte>90</Byte>
+        <Byte>90</Byte>
+        <Byte>90</Byte>
+        <Byte>90</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+</CheatTable>

@@ -1,0 +1,28 @@
+newmtl obj0mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj1mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj2mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj5mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj6mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj7mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj11mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp

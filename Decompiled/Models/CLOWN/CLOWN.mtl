@@ -1,0 +1,16 @@
+newmtl obj0mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex22.bmp
+newmtl obj0mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex22.bmp
+newmtl obj2mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex22.bmp
+newmtl obj4mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex22.bmp

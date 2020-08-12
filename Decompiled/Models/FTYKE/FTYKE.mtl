@@ -1,0 +1,16 @@
+newmtl obj0mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj0mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj1mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj1mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp

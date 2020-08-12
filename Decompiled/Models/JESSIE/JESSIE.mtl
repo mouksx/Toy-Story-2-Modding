@@ -1,0 +1,64 @@
+newmtl obj0mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj1mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj1mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj1mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj2mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj3mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj3mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj4mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj5mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj10mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj11mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj11mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj12mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj13mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj14mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp
+newmtl obj22mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex18.bmp

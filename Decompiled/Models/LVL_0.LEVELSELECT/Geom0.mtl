@@ -1,0 +1,1656 @@
+newmtl obj0mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj1mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj2mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj3mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj3mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj4mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj5mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj6mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj6mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj7mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj7mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj8mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj8mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj9mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj10mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj11mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj12mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj13mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj14mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj14mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj15mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj16mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj17mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj18mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj18mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj19mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj19mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj20mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj21mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj22mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj22mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj23mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj23mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj24mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj25mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj25mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj25mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj26mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj27mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj27mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj27mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj28mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj29mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj29mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj30mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj31mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj32mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj33mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj33mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj34mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj35mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj35mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj36mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj37mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj38mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj39mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj40mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj40mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj41mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj42mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj42mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj43mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj44mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj45mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj45mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj46mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj47mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj47mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj48mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj49mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj50mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj50mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj50mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj51mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj51mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj52mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj52mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj53mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj54mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj55mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj55mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj56mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj56mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj57mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj57mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj57mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj58mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj58mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj58mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj59mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj60mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj60mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj61mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj61mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj62mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj62mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj63mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj63mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj64mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj64mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj65mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj66mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj67mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj68mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj69mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj69mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj69mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj70mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj71mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj71mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj71mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj72mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj72mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj73mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj73mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj73mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj74mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj75mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj75mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj76mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj76mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj77mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj77mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj77mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj78mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj78mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj79mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj79mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj80mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj80mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj80mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj80mat3
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj81mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj81mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj82mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj83mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj83mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj83mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj83mat3
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj84mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj85mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj85mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj86mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj87mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj87mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj88mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj88mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj88mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj89mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj89mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj90mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj90mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj91mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj92mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj92mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj93mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj93mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj94mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj94mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj94mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj95mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj96mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj96mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj96mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj96mat3
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj97mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj97mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj98mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj99mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj100mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj101mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj101mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj101mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj102mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj103mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj103mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj103mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj104mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj105mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj105mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj106mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj106mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj107mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj108mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj109mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj110mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj110mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj111mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj111mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj112mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj113mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj113mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj113mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj113mat3
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj114mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj115mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj115mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj116mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj117mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj117mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj118mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj118mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj119mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj120mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj120mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj121mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj121mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj122mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj122mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj123mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj124mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj125mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj125mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj126mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj127mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj128mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj129mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj129mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj130mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj131mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj131mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj132mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj132mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj133mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj133mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj134mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj135mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj136mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj137mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj138mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj138mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj139mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj140mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj141mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj142mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj143mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj144mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj145mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj146mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj147mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj147mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj147mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj148mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj148mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj149mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj149mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj150mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj150mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj151mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj152mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj153mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj154mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj155mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj156mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj156mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj156mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj156mat3
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj157mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj157mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj158mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj158mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj158mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj159mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj159mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj159mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj160mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj161mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj162mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj162mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj163mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj163mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj164mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj164mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj165mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj166mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj167mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj168mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj169mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj170mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj170mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj171mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj171mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj172mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj172mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj173mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj174mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj174mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj175mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj175mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj176mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj176mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj177mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj177mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj178mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj179mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj179mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj180mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj180mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj181mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj181mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj181mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj182mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj182mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj182mat2
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj183mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj184mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj185mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj186mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj186mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj187mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj187mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj188mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj188mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj189mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj190mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj190mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj191mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj191mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj192mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj193mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj193mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj194mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj195mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj196mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj196mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj197mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj197mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj198mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj198mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj199mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj199mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj200mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj200mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj201mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj201mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj202mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj202mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj203mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj203mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj204mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj204mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj205mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj205mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj206mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj206mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj207mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj208mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj208mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj209mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj209mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj210mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj210mat1
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj211mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj212mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj213mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj214mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj215mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj216mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj217mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj218mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj219mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj220mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj221mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj222mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj223mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj224mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj225mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj226mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj227mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj228mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj229mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj230mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj231mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj232mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj233mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj234mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj235mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj236mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj237mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj238mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj239mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj240mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj241mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj242mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj243mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj244mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj245mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj246mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj247mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj248mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj249mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj250mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj251mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj252mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj253mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex06.bmp
+newmtl obj254mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj255mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj256mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj257mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj258mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj259mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex11.bmp
+newmtl obj260mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj261mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex09.bmp
+newmtl obj262mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex08.bmp
+newmtl obj263mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex07.bmp
+newmtl obj264mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj265mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj266mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj267mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj268mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj269mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj270mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj271mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
+newmtl obj272mat0
+illum 2
+Kd 0.980392225 0.980392225 0.980392225
+map_Kd tex05.bmp
