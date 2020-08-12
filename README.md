@@ -27,9 +27,10 @@ Juanmv94 also made a Collision and GFX viewer using PSX save states, which conta
 You can find the collision viewer [here](https://priceless-pike-6c8ff8.netlify.app/), or the GFX viewer, [here](https://priceless-pike-6c8ff8.netlify.app/indexgfx.html)
   
   
-### .DAT:
+### DAT:
 #### The .dat file contains:
-This is the third and final file that is necessary to load a level.
 The .dat file is somewhat a mystery for now, What I think it contains is:  
 Some Entity Data, Poles and Pushable Entity Data and Specific Entity Pointers.  
+This is the third and final file that is necessary to load a level.
+#### Modding the .dat file:
 Currently we cannot mod it.
