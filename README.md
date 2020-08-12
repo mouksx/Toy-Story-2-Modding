@@ -29,6 +29,6 @@ You can find the collision viewer [here](https://priceless-pike-6c8ff8.netlify.a
 ### .DAT:
 #### The .dat file contains:
 This is the third and final file that is necessary to load a level.
-The .dat file is somewhat a small mystery for now, at the moment what I think it contains is:
+The .dat file is somewhat a mystery for now, What I think it contains is:  
 Some Entity Data, Poles and Pushable Entity Data and Specific Entity Pointers.  
 Currently we cannot mod it.
