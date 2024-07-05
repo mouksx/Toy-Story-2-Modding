@@ -1,3 +1,8 @@
+#DISCLAIMER!!!!
+##a LOT of the info written here is old information, as i created this almost 5 years ago. i did not fully understand what each file contained with 100% accuracy, and i aim to rewrite
+a lot of this in the near future. the only trustworthy snippet right now is the info about the NGN files.
+
+
 # Toy Story 2 Modding
 Tools And Decompiled Assets For/From The 1999 Video Game Toy Story 2
 
